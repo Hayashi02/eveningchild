@@ -1,0 +1,51 @@
+.body {
+  padding-top: 205px;
+  padding-bottom: 200px;
+  font-family: arial;
+  background-color:rgb(9, 39, 30);
+}
+.top-header {
+  background-color: rgb(9, 73, 54);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  z-index: 50;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  display: flex
+}
+.thumb {
+  
+  height: 170px;
+  margin-top: 15px;
+  margin-left: 15px;
+  border-radius: 9px;
+}
+.title-block {
+  display: inline-block;
+  flex: 1;
+  margin-left: 10px;
+  min-width: 350px;
+  color: white;
+}
+.writter {
+  margin-top: 108px;
+  
+}
+.song {
+  width: 300px;
+}
+.lyric {
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 30px;
+  color: rgb(255, 255, 255);
+}
+.arthur-name {
+  color: white;
+  text-decoration:none
+ 
+}
